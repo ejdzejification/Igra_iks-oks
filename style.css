@@ -39,11 +39,6 @@ width: auto;
 height: auto;
 }
 
-h2 {
-position: relative;
--webkit-animation: h2Animation 5s;
-}
-
 canvas {
 padding: 10px;
 position: center;
