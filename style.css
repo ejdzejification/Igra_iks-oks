@@ -1,0 +1,54 @@
+body {
+text-align: center;
+font-family: "Comic Sans MS", cursive, sans-serif;
+background: white;
+}
+
+#wrap {
+width: 629px;
+min-height: 800px;
+margin: 20px auto;
+background: white url(sveska.jpg) no-repeat;
+background-position: center;
+text-align: center;
+border: 12px solid #66FFFF;
+}
+
+#wrap1 {
+width: 629px;
+min-height: 800px;
+margin: 20px auto;
+background: white url(sveska.jpg) no-repeat;
+background-position: center;
+text-align: center;
+border: 12px solid #66FFFF;
+}
+
+a:link {
+text-decoration: none;
+color: black;
+}
+
+a:visited {
+color:black;
+}
+
+.box {
+text-align: left;
+width: auto;
+height: auto;
+}
+
+h2 {
+position: relative;
+-webkit-animation: h2Animation 5s;
+}
+
+canvas {
+padding: 10px;
+position: center;
+width: 100px;
+height: 100px;
+}
+
+
